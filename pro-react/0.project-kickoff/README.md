@@ -6,7 +6,8 @@
 joe u
 joe g jetbrains >> .gitignore
 joe g node >> .gitignore
-```
+```  
+https://github.com/karan/joe/releases  
 ### 3. npm init
 ### 4. package.json
 ```
