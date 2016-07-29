@@ -26,9 +26,10 @@ joe g node >> .gitignore
     "react-dom": "^15.1.0"
   }
 ```
-### 5. public/index.html
-### 6. app/index.js
-### 7. webpack.config.js
+### 5. public/index.html  
+### 6. app/index.js  
+### 7. webpack.config.js  
+![webpack compile](http://d2.naver.com/content/images/2016/02/webpack-1.png)  
 ### 8. npm install
 ### 9. npm start
 ### 10. open http://localhost:8080
