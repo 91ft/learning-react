@@ -1,4 +1,4 @@
-## kanban board Project
+# kanban board Project
 
 ### 1. new project
 ### 2. git init
