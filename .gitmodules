@@ -1,0 +1,3 @@
+[submodule "pro-react/1.virtual-dom"]
+	path = pro-react/1.virtual-dom
+	url = git@github.com:ikhoon/react-kanban.git
